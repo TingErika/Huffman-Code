@@ -1,0 +1,1000 @@
+10 rabbit eats the seed
+10 seed finds 3 dog
+8 dog catches 7 tiger
+4 tiger catches 3 carrot
+2 rabbit eats 1 sheep
+9 chicken catches
+6 tiger catches 7 apple
+9 seed finds 5 grass
+5 seed catches 9 sheep
+7 cat catches 10 cat
+8 dog eats 3 rabbit
+10 apple eats 6 carrot
+the cat finds 1 carrot
+3 carrot eats
+5 chicken finds
+9 cat catches
+4 seed eats 1 carrot
+the chicken finds a tiger
+2 tiger finds 9 dog
+5 apple finds 1 carrot
+8 grass eats 9 grass
+4 rabbit finds the fish
+8 cat eats 2 chicken
+4 fish catches
+5 sheep finds
+the tiger eats
+5 grass catches 2 dog
+7 carrot finds 4 seed
+2 carrot eats 8 apple
+2 apple finds 2 cat
+5 chicken catches
+6 apple catches 5 fish
+9 carrot catches 4 chicken
+7 cat eats 9 seed
+9 sheep eats 8 sheep
+a carrot eats 2 chicken
+the rabbit eats
+7 chicken eats 6 grass
+8 chicken eats
+2 apple finds 5 sheep
+1 tiger finds
+9 dog finds 6 chicken
+7 dog eats 10 fish
+6 tiger finds 2 cat
+7 cat catches 2 chicken
+5 grass eats 6 cat
+a rabbit eats 8 apple
+7 cat finds 5 carrot
+2 seed eats
+the grass finds
+8 dog eats the tiger
+10 carrot catches 1 carrot
+2 rabbit eats 8 grass
+6 fish eats
+4 fish finds 9 cat
+the sheep finds
+4 fish finds 2 chicken
+3 apple eats
+7 seed eats 4 chicken
+6 tiger catches
+4 seed finds
+1 chicken finds 8 dog
+3 fish finds 2 seed
+4 chicken finds 5 dog
+6 apple finds 3 fish
+a sheep eats 7 carrot
+a apple eats
+3 grass eats a rabbit
+7 grass finds 6 fish
+4 sheep finds
+1 cat finds
+a grass eats 3 seed
+10 rabbit finds 2 chicken
+the chicken finds 3 cat
+8 carrot eats the seed
+3 chicken eats 1 apple
+8 apple finds
+5 carrot catches
+7 cat finds the fish
+6 apple finds 2 chicken
+9 rabbit eats
+8 grass eats 3 cat
+7 rabbit eats 3 chicken
+the grass finds 1 tiger
+6 sheep eats 2 seed
+9 rabbit eats 2 apple
+the apple catches
+10 sheep catches the sheep
+3 dog finds the cat
+7 dog eats 7 dog
+4 chicken eats 10 sheep
+a apple catches 9 apple
+6 dog eats the dog
+7 grass finds 3 apple
+a dog eats 10 grass
+5 grass finds 6 sheep
+1 carrot eats 7 dog
+10 chicken finds 8 fish
+10 cat finds 5 apple
+a apple catches 1 sheep
+7 dog catches 1 rabbit
+1 cat catches 5 apple
+a chicken catches 2 apple
+a apple catches 5 grass
+2 rabbit finds 2 cat
+3 seed eats
+10 carrot catches 7 carrot
+8 apple finds 2 sheep
+10 chicken catches 5 dog
+6 dog catches 9 fish
+the carrot catches 8 seed
+9 dog finds
+1 sheep finds 9 tiger
+9 fish finds
+10 seed catches 6 fish
+7 tiger eats 3 seed
+1 cat finds 7 carrot
+9 seed eats 2 carrot
+7 sheep finds a apple
+2 tiger catches
+10 seed finds the sheep
+4 apple catches 8 chicken
+2 rabbit catches
+3 dog finds 5 sheep
+2 grass eats 10 apple
+6 seed catches 10 rabbit
+2 apple finds
+7 seed finds 10 tiger
+4 fish catches 8 apple
+the apple eats 5 chicken
+9 sheep catches 5 sheep
+a apple eats 1 tiger
+7 apple catches 7 rabbit
+8 rabbit finds
+2 grass eats 10 rabbit
+the tiger catches
+9 apple finds
+6 fish eats 1 chicken
+2 tiger catches
+5 apple finds 2 apple
+4 sheep catches 5 chicken
+10 cat finds 2 sheep
+a rabbit eats
+a tiger catches
+6 apple eats 1 tiger
+1 cat catches
+a cat catches 6 dog
+3 apple finds
+9 tiger finds
+8 rabbit catches the rabbit
+2 dog catches 6 grass
+5 cat catches
+2 seed finds 8 sheep
+8 chicken eats 3 carrot
+4 rabbit finds 5 seed
+10 carrot eats 3 dog
+9 chicken catches 7 apple
+2 fish finds
+a seed finds 6 cat
+9 cat finds 8 carrot
+6 rabbit catches a tiger
+10 carrot eats 1 chicken
+8 grass eats 10 dog
+9 tiger eats
+5 dog catches the rabbit
+7 dog catches 6 tiger
+a chicken finds 2 dog
+9 chicken eats 8 carrot
+2 chicken eats 7 chicken
+3 carrot catches 4 cat
+10 rabbit eats 8 grass
+8 sheep eats 2 dog
+1 apple finds
+6 grass eats 8 seed
+9 seed catches 3 dog
+a carrot finds
+6 apple catches 7 chicken
+1 tiger finds 7 grass
+5 sheep catches 10 seed
+2 grass finds a tiger
+the sheep eats 1 apple
+4 apple catches 5 apple
+4 tiger catches
+the fish catches 10 chicken
+2 chicken catches 10 dog
+9 dog finds 6 chicken
+1 fish catches 8 chicken
+6 grass finds 5 fish
+1 seed finds 7 apple
+4 carrot eats
+a dog catches the tiger
+a grass finds the seed
+5 dog catches 6 seed
+3 sheep catches 5 seed
+7 apple finds
+a cat eats 7 tiger
+1 seed eats 8 seed
+1 dog catches 6 fish
+3 grass finds 6 apple
+10 chicken catches 10 sheep
+a apple eats
+7 chicken eats 2 chicken
+7 cat eats 3 dog
+2 tiger catches 1 fish
+8 dog catches
+10 grass finds
+the rabbit finds 9 fish
+10 seed eats 8 tiger
+5 rabbit catches 7 grass
+2 cat finds 10 chicken
+7 chicken catches the cat
+2 fish finds 8 grass
+1 fish finds 8 tiger
+6 apple eats
+a seed catches
+10 seed catches the seed
+7 tiger finds 8 chicken
+1 chicken finds the grass
+2 grass eats 2 chicken
+a fish catches 3 apple
+5 cat finds 9 seed
+3 rabbit eats
+1 cat eats
+a fish catches 4 dog
+the chicken finds 5 rabbit
+7 seed eats
+6 carrot catches 10 carrot
+9 chicken eats
+a grass eats 4 grass
+a fish eats 7 seed
+2 sheep finds
+1 carrot catches a sheep
+6 dog finds a rabbit
+3 rabbit eats 9 fish
+8 apple eats 1 fish
+4 cat eats 2 rabbit
+2 sheep finds 4 seed
+2 dog finds 10 chicken
+5 grass eats 5 carrot
+7 rabbit catches a fish
+2 chicken finds the tiger
+8 dog catches 6 grass
+5 carrot finds
+7 cat eats
+6 cat eats 4 fish
+the apple finds
+3 cat eats a apple
+10 tiger catches
+8 chicken finds 10 cat
+3 seed eats
+7 rabbit finds 8 dog
+9 cat eats
+2 rabbit catches 2 dog
+3 dog finds 10 rabbit
+9 dog eats 1 cat
+the cat catches 3 grass
+9 grass catches a cat
+6 chicken eats 2 tiger
+2 chicken catches 10 grass
+7 tiger catches
+2 tiger finds 6 carrot
+7 cat eats
+3 cat finds 4 sheep
+a tiger catches 4 dog
+8 fish finds 10 grass
+8 apple catches
+3 chicken finds 1 sheep
+6 carrot eats the fish
+2 apple catches 10 tiger
+7 grass finds 2 carrot
+4 apple finds
+2 dog finds 8 seed
+5 apple finds
+9 seed catches
+6 tiger finds a sheep
+8 cat finds
+a grass catches 3 carrot
+7 fish catches 3 dog
+3 carrot finds
+5 chicken eats
+the grass catches 2 sheep
+4 carrot eats
+8 tiger catches 4 fish
+8 tiger finds 1 fish
+6 fish eats 5 apple
+4 rabbit finds
+9 apple eats
+8 tiger catches 5 apple
+8 dog finds 1 chicken
+1 sheep eats
+1 chicken catches
+2 fish catches
+1 sheep catches 3 carrot
+5 sheep finds 2 dog
+6 tiger catches
+4 cat eats a sheep
+the seed catches
+2 dog eats
+the apple catches
+6 cat catches
+5 fish catches 1 sheep
+7 grass finds 9 chicken
+4 sheep catches
+5 tiger finds
+5 fish eats 5 seed
+a dog eats
+8 dog catches 4 sheep
+4 seed catches
+2 dog eats 8 carrot
+10 carrot finds 7 tiger
+5 chicken finds
+2 sheep finds a cat
+8 tiger catches the tiger
+1 chicken eats 7 grass
+9 rabbit eats 8 seed
+4 dog catches 7 chicken
+4 fish catches 4 sheep
+1 fish catches 1 sheep
+7 dog eats
+3 apple eats
+5 sheep catches the apple
+10 chicken catches 6 dog
+7 apple finds 10 tiger
+a seed catches 10 sheep
+10 dog finds 9 dog
+the tiger finds 6 grass
+7 rabbit eats a dog
+10 chicken catches
+10 fish finds 6 apple
+the sheep eats 5 cat
+3 grass finds
+6 cat finds
+the tiger eats
+8 tiger eats 10 sheep
+9 tiger finds a seed
+4 seed finds 8 dog
+9 carrot finds
+2 carrot eats 1 sheep
+10 cat eats 8 dog
+3 tiger eats the dog
+5 fish finds 3 chicken
+2 chicken finds
+10 dog finds the apple
+the tiger catches 10 tiger
+3 fish catches 7 apple
+7 seed eats a cat
+6 chicken finds 8 fish
+7 seed eats 8 grass
+the chicken eats 7 seed
+9 cat catches
+6 seed eats 2 chicken
+6 sheep eats 8 fish
+2 rabbit finds 7 rabbit
+a dog catches
+4 sheep finds
+7 cat catches 9 tiger
+2 sheep eats
+2 chicken finds
+7 grass eats the dog
+10 grass eats
+8 fish catches 6 grass
+2 sheep finds the rabbit
+a carrot catches a carrot
+9 fish catches 4 cat
+9 grass catches 4 apple
+10 apple finds 4 seed
+a dog catches
+8 seed catches
+7 rabbit catches 7 cat
+a dog finds
+5 dog catches 5 rabbit
+8 grass catches a apple
+9 seed catches 7 seed
+9 cat finds 1 seed
+10 grass finds 5 tiger
+the carrot finds 5 rabbit
+5 fish eats a carrot
+5 chicken catches the carrot
+1 fish catches 6 chicken
+6 grass finds 1 apple
+6 fish catches
+7 dog catches 10 chicken
+10 fish catches 5 carrot
+7 rabbit eats
+a grass finds 2 sheep
+7 dog eats 6 chicken
+8 rabbit finds 8 seed
+4 carrot eats
+9 dog eats
+7 grass catches 7 sheep
+3 tiger catches 6 dog
+3 apple finds 1 grass
+10 seed eats 10 cat
+9 tiger eats
+4 tiger eats 3 rabbit
+8 cat eats 7 dog
+5 cat catches 8 carrot
+10 grass catches 3 cat
+3 sheep finds 9 rabbit
+7 cat finds 9 sheep
+4 rabbit catches
+a grass eats 2 seed
+2 carrot eats 6 carrot
+8 carrot finds 7 tiger
+10 rabbit catches
+a apple catches
+3 chicken eats 1 dog
+a fish finds the sheep
+7 grass finds 8 apple
+3 sheep catches a seed
+3 sheep finds 2 cat
+7 apple eats
+1 dog catches 8 tiger
+10 sheep catches 2 grass
+5 seed finds
+7 carrot finds a cat
+6 cat eats
+the grass catches 1 apple
+5 dog finds
+1 grass finds 5 seed
+4 apple catches
+the apple catches 8 carrot
+the chicken catches 4 dog
+3 chicken catches
+4 dog eats 4 tiger
+2 seed finds 10 dog
+2 fish eats 1 seed
+1 sheep finds 4 seed
+6 carrot finds 2 carrot
+2 rabbit eats a seed
+10 grass catches 10 chicken
+10 sheep catches 6 apple
+5 grass eats 10 seed
+the cat catches 1 tiger
+4 seed finds a apple
+6 tiger eats
+10 apple finds
+10 apple eats
+2 tiger finds 2 carrot
+9 tiger finds 1 rabbit
+2 tiger finds 2 rabbit
+a seed finds 4 sheep
+2 rabbit catches a grass
+10 apple finds
+the grass finds
+2 seed catches
+9 grass finds
+2 tiger eats 2 carrot
+7 cat finds
+9 rabbit eats 3 grass
+the apple catches 6 tiger
+1 fish catches 7 dog
+10 chicken eats 4 chicken
+4 grass catches 10 seed
+5 cat finds 1 dog
+the grass finds
+a carrot eats
+6 sheep eats the fish
+8 seed catches 6 carrot
+10 carrot eats
+8 carrot catches 5 rabbit
+2 dog catches
+a seed finds 2 rabbit
+7 sheep finds 5 sheep
+5 fish finds
+5 tiger catches 2 grass
+3 sheep catches
+7 rabbit eats 9 chicken
+10 dog eats 9 tiger
+7 fish catches 10 sheep
+9 carrot catches
+8 apple finds 5 tiger
+7 cat eats 2 apple
+1 tiger finds
+7 tiger eats 8 fish
+6 sheep catches
+10 grass finds 10 dog
+3 apple catches the grass
+8 fish catches 1 apple
+6 dog finds 7 fish
+the chicken finds
+8 tiger finds
+6 fish catches the rabbit
+6 dog finds 8 grass
+the grass finds 1 rabbit
+1 seed catches 8 seed
+7 rabbit catches
+the sheep eats
+the sheep catches 2 apple
+3 sheep catches
+10 seed eats a seed
+2 apple finds 1 grass
+2 fish catches 3 grass
+5 seed catches 7 tiger
+1 rabbit eats the sheep
+8 dog finds 1 chicken
+7 dog eats
+3 seed catches 7 apple
+8 apple finds a fish
+9 chicken catches
+1 carrot finds 1 fish
+5 chicken catches 1 dog
+5 dog finds 9 apple
+7 fish eats
+the apple eats
+3 sheep catches 6 chicken
+1 dog eats 10 cat
+10 seed finds 9 carrot
+10 grass eats
+a grass finds
+7 apple finds
+3 seed catches 9 cat
+8 cat finds 9 dog
+9 rabbit catches
+9 carrot finds 5 rabbit
+1 fish catches
+4 carrot finds
+10 grass finds 8 seed
+6 carrot catches
+7 fish catches 10 dog
+1 dog catches 2 chicken
+the dog finds 7 tiger
+4 carrot catches 6 chicken
+9 grass eats 2 tiger
+5 grass catches
+a apple finds 5 rabbit
+9 rabbit eats
+4 sheep eats the cat
+3 dog eats
+3 rabbit catches 5 seed
+9 fish eats
+the fish catches 1 cat
+5 chicken catches
+10 apple catches
+9 apple eats 2 apple
+8 grass finds
+8 grass finds 6 seed
+a carrot eats
+8 carrot finds
+9 dog finds the carrot
+4 sheep finds 4 tiger
+3 apple finds 5 fish
+5 carrot finds 5 seed
+8 carrot catches 8 cat
+a cat finds
+2 apple catches 6 rabbit
+the rabbit eats
+6 seed eats 6 cat
+6 dog finds 9 apple
+6 tiger catches
+10 tiger eats 7 fish
+6 rabbit catches
+6 seed catches 6 apple
+a sheep catches
+8 sheep eats 3 apple
+3 cat eats the seed
+9 apple finds a grass
+6 rabbit eats
+8 fish eats 10 cat
+3 seed finds 5 seed
+9 seed catches
+6 apple catches 9 carrot
+the sheep catches
+8 chicken finds 10 carrot
+6 chicken finds
+8 sheep finds
+6 grass finds 9 dog
+1 chicken catches
+9 sheep finds a tiger
+4 chicken catches 4 rabbit
+4 dog eats
+5 sheep eats
+8 rabbit catches 3 sheep
+6 rabbit finds 1 fish
+6 fish catches a tiger
+5 sheep catches the dog
+7 tiger catches 4 tiger
+the sheep eats
+2 apple catches 7 grass
+9 chicken eats 4 sheep
+6 apple finds 1 cat
+a dog catches 9 rabbit
+6 grass finds 6 apple
+10 chicken finds
+the apple catches 8 cat
+the carrot eats 4 rabbit
+5 tiger catches 7 fish
+the grass finds
+9 chicken catches 2 cat
+the carrot finds 9 apple
+2 seed eats
+8 grass eats
+6 chicken finds the carrot
+3 chicken eats 4 fish
+5 carrot eats
+4 rabbit catches 1 fish
+2 dog finds 1 grass
+4 seed catches 2 dog
+3 carrot catches
+6 apple catches
+4 chicken eats 9 carrot
+the seed catches 1 grass
+the apple eats 1 apple
+10 fish eats
+10 cat catches 1 cat
+9 carrot finds 2 grass
+5 dog finds 6 seed
+9 chicken catches the tiger
+4 sheep catches 3 fish
+4 dog eats the fish
+5 sheep eats 9 grass
+5 cat catches 8 apple
+4 fish eats 10 apple
+6 tiger finds
+2 tiger eats 2 tiger
+4 carrot finds 2 seed
+5 tiger catches 10 carrot
+9 grass finds 1 tiger
+10 sheep eats a seed
+10 grass eats
+10 carrot finds 7 grass
+8 sheep eats 1 tiger
+1 tiger finds 8 carrot
+the tiger eats 9 fish
+10 sheep eats
+6 sheep eats 5 carrot
+2 grass eats
+the dog catches 9 cat
+a dog catches 1 sheep
+9 sheep eats the sheep
+10 apple finds 7 carrot
+a sheep finds 6 dog
+2 seed catches 8 apple
+1 cat catches
+8 grass finds
+4 sheep finds
+6 sheep catches 5 cat
+the rabbit catches 7 apple
+8 dog eats 5 seed
+8 grass catches
+a seed eats 2 carrot
+5 grass catches
+5 sheep finds 5 rabbit
+1 chicken eats 3 chicken
+1 fish catches 6 sheep
+a dog finds 5 fish
+8 tiger finds
+10 grass catches 8 rabbit
+5 apple finds
+4 tiger eats
+3 apple finds
+5 sheep eats
+8 apple catches 7 sheep
+3 sheep eats
+8 sheep catches a rabbit
+3 grass eats 10 apple
+7 tiger finds
+6 rabbit catches 6 dog
+9 chicken eats 3 chicken
+a dog finds the sheep
+5 sheep eats
+6 sheep catches
+the carrot eats 6 seed
+9 rabbit finds
+1 apple catches 1 seed
+9 sheep catches 5 sheep
+4 seed catches the carrot
+6 apple finds
+2 carrot catches 6 seed
+a fish eats 6 sheep
+9 carrot catches
+8 tiger finds 3 chicken
+4 carrot eats 5 rabbit
+3 fish finds 6 tiger
+9 fish finds
+5 grass finds
+5 dog finds
+1 carrot catches 5 fish
+8 dog catches
+6 seed eats
+8 grass finds 8 chicken
+3 grass catches
+9 seed finds 10 rabbit
+4 cat eats a chicken
+6 grass eats 7 tiger
+the grass eats
+the grass finds 4 sheep
+5 rabbit finds 10 carrot
+4 rabbit finds 5 chicken
+4 sheep catches
+4 apple eats 4 dog
+5 fish catches 3 seed
+4 tiger finds 1 sheep
+the apple catches 1 seed
+1 cat catches
+6 chicken catches
+6 carrot eats 1 dog
+4 carrot eats 3 carrot
+8 tiger finds 8 tiger
+9 cat eats
+3 dog catches 9 cat
+4 chicken catches 9 sheep
+1 rabbit catches 3 dog
+a sheep catches 6 sheep
+2 chicken eats
+4 grass eats 9 apple
+10 chicken catches 10 fish
+the chicken eats
+8 grass eats
+2 rabbit finds the seed
+a sheep finds
+4 apple eats 5 tiger
+8 seed catches
+4 rabbit eats
+2 apple eats
+a apple finds
+3 carrot finds 2 carrot
+7 chicken catches
+7 apple catches 6 seed
+6 sheep eats
+10 cat catches 9 carrot
+3 apple catches 8 dog
+3 sheep eats 2 carrot
+1 apple finds 2 fish
+1 rabbit catches
+2 seed finds 1 dog
+2 rabbit catches 6 seed
+8 carrot catches
+2 tiger finds 9 rabbit
+7 grass finds 10 carrot
+4 apple finds 2 seed
+the chicken eats 7 apple
+6 fish finds 5 apple
+9 dog catches 9 fish
+3 tiger eats 3 sheep
+4 apple catches 8 tiger
+8 carrot finds 9 fish
+10 chicken catches
+a cat catches 5 dog
+2 tiger catches 6 grass
+3 apple eats
+1 dog eats 10 carrot
+10 dog catches a cat
+3 sheep catches 1 carrot
+5 cat finds 6 apple
+6 cat catches
+6 rabbit finds
+8 chicken catches 1 seed
+4 tiger eats 5 tiger
+6 carrot eats
+7 carrot catches
+4 seed finds 5 sheep
+2 fish finds
+a rabbit catches
+a grass catches 10 carrot
+10 grass eats
+7 chicken eats 10 cat
+a chicken catches
+a apple finds
+6 seed eats
+10 apple finds
+4 chicken catches 2 seed
+7 fish catches
+7 fish eats
+6 sheep finds 2 tiger
+5 chicken finds
+3 chicken catches
+5 tiger eats
+2 rabbit catches the apple
+6 dog catches
+the sheep catches
+a rabbit finds a carrot
+9 carrot finds
+6 cat catches
+the tiger finds 1 chicken
+1 seed finds the carrot
+7 rabbit catches
+8 tiger finds 7 carrot
+6 cat finds 2 dog
+3 tiger catches
+9 fish catches 6 seed
+1 tiger eats 10 sheep
+8 apple finds 2 sheep
+6 fish catches 1 rabbit
+1 fish catches 8 carrot
+9 carrot eats
+the sheep catches 2 carrot
+8 dog eats
+the dog finds
+7 rabbit eats the seed
+4 rabbit catches 8 cat
+9 rabbit eats
+4 apple eats
+a grass finds the apple
+7 chicken finds 3 apple
+the fish finds
+4 carrot eats 10 grass
+6 cat catches 10 carrot
+1 dog catches a dog
+10 cat catches 4 cat
+9 fish catches
+7 seed eats
+5 fish finds
+the rabbit finds
+3 tiger catches 2 grass
+7 apple catches
+5 cat eats 7 fish
+the tiger eats 8 apple
+6 rabbit eats 10 chicken
+7 fish catches 10 carrot
+7 seed eats
+10 cat finds
+4 dog eats
+1 grass finds a cat
+7 seed eats
+1 cat eats
+6 cat eats 10 sheep
+the tiger finds 2 cat
+2 cat eats 8 sheep
+2 cat finds
+4 fish eats 10 sheep
+5 apple catches 10 cat
+4 fish eats 3 dog
+8 grass catches a dog
+7 grass eats 2 apple
+7 chicken catches 6 chicken
+the rabbit eats 4 apple
+7 seed eats 2 fish
+10 apple eats 7 apple
+a seed finds 9 dog
+7 chicken finds 8 dog
+5 grass eats 9 chicken
+9 cat catches a carrot
+8 cat catches 5 rabbit
+4 cat finds
+the chicken finds 2 chicken
+the fish finds
+1 dog finds 5 rabbit
+9 cat finds 4 tiger
+7 seed eats
+2 rabbit finds
+2 tiger catches
+2 chicken catches
+3 apple catches 3 fish
+8 tiger catches 6 dog
+1 grass catches a sheep
+the fish catches 5 fish
+the fish finds 7 cat
+2 tiger eats 2 rabbit
+4 rabbit catches
+9 tiger finds 10 grass
+7 seed eats
+2 carrot catches 5 sheep
+3 grass catches
+a fish eats 9 tiger
+3 rabbit eats 1 tiger
+a dog eats the rabbit
+1 fish finds 6 rabbit
+the dog catches 4 fish
+5 tiger eats 9 sheep
+the rabbit finds 7 chicken
+3 cat eats
+7 fish finds 1 fish
+7 carrot eats 2 tiger
+4 sheep finds the seed
+a rabbit finds 9 carrot
+10 seed catches 10 apple
+3 rabbit eats
+the dog eats
+8 rabbit catches the seed
+1 apple eats 7 fish
+2 dog catches
+3 cat eats
+10 rabbit catches 7 tiger
+the apple eats 5 dog
+2 cat finds 9 cat
+1 fish finds the cat
+3 cat finds 9 fish
+9 carrot finds 9 chicken
+9 grass catches 5 chicken
+5 seed eats 5 grass
+7 sheep eats
+10 sheep finds
+a dog catches
+5 carrot catches 10 sheep
+a rabbit catches
+3 tiger eats
+9 apple eats 2 dog
+the cat eats
+1 chicken finds 7 sheep
+6 sheep eats
+4 apple finds 10 carrot
+9 sheep eats
+a tiger eats a cat
+9 tiger catches
+6 apple finds 1 sheep
+7 seed finds 2 seed
+the chicken finds a seed
+2 grass finds
+5 grass catches 7 sheep
+7 apple catches
+6 rabbit catches 9 dog
+5 apple eats 8 chicken
+4 dog catches 8 dog
+1 apple eats 8 sheep
+2 fish catches 9 dog
+6 dog catches 2 chicken
+1 grass catches
+1 apple catches 6 sheep
+8 apple catches
+6 seed catches a chicken
+a rabbit finds
+5 apple catches the seed
+3 tiger catches 3 chicken
+5 rabbit catches 7 seed
+4 seed finds 9 tiger
+8 sheep eats 2 apple
+10 carrot finds 8 carrot
+a dog eats
+a seed finds a apple
+10 cat catches a chicken
+3 carrot catches 9 dog
+7 cat finds 9 rabbit
+5 rabbit finds 3 apple
+4 apple finds
+6 tiger eats 10 fish
+9 seed eats 2 chicken
+8 chicken eats
+9 seed finds
+3 apple eats 9 dog
+a apple eats
+3 dog finds 3 seed
+1 seed finds 1 apple
+a cat finds a sheep
+5 chicken catches the sheep
+3 sheep finds
+a tiger catches 3 dog
+2 dog catches
+3 tiger eats
+1 rabbit catches 2 apple
+6 cat eats 7 rabbit
+1 fish finds 3 sheep
+8 dog eats 8 grass
+1 fish catches 5 chicken
+8 dog finds 7 sheep
+7 tiger eats
+7 dog catches a dog
+8 sheep finds 4 rabbit
+7 chicken finds
+10 sheep eats 3 grass
+4 seed catches 9 cat
+a grass catches
+7 apple eats 4 fish
+2 grass catches 6 carrot
+3 tiger eats
+5 rabbit eats 4 fish
+1 chicken catches 9 apple
+4 cat eats 7 tiger
+6 dog eats the seed
+7 dog finds 8 grass
+the grass eats 8 grass
+a carrot eats 2 carrot
+3 tiger finds
+1 grass finds 4 grass
+9 sheep finds
+8 seed eats
+1 chicken eats 7 apple
+a dog finds 3 seed
+7 cat eats 5 chicken
+the grass eats
+5 carrot catches
+1 dog eats 4 cat
+7 seed eats 6 chicken
+8 apple eats 4 tiger
+3 fish finds 10 grass
+2 tiger catches 2 seed
+2 rabbit catches
+9 sheep eats
+8 carrot catches 1 carrot
+a tiger catches a cat
+10 carrot finds 8 grass
+2 sheep catches
+9 chicken finds a sheep
+4 tiger finds 5 apple
+a apple finds
+3 fish catches 7 grass
+the chicken eats
+a grass finds
+6 dog finds
+3 rabbit finds 10 apple
+8 dog catches
+10 rabbit eats 3 carrot
+the fish finds 2 seed
+4 carrot catches 2 cat
+7 tiger catches 10 apple
+2 grass finds
+6 seed eats 9 seed
+6 sheep catches 2 seed
+8 chicken finds
+8 seed finds 4 chicken

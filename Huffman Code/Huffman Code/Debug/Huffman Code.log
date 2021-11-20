@@ -1,0 +1,4 @@
+﻿  Huffman Code.cpp
+D:\demo\Huffman Code\Huffman Code\Huffman Code.cpp(405,20): warning C4244: “=”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+D:\demo\Huffman Code\Huffman Code\Huffman Code.cpp(422,16): warning C4244: “=”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+  Huffman Code.vcxproj -> D:\demo\Huffman Code\Debug\Huffman Code.exe
